@@ -13,11 +13,11 @@ seen of individual room and user profile.
 
 ## Screenshots
 
-![WhatsApp](homepage.png)
+![WhatsApp](Game1.png)
 The Sign-in Page.
 
-![WhatsApp](gmail.signin.jpg)
+![WhatsApp](Game2.png)
 The user would require Google-Auth to sign in using his/her gmail-id.
 
-![WhatsApp](Whatsapp.png)
+![WhatsApp](Game3.png)
 On the left we have various groups/channels and on the right we have a particular chat opened up where we can send and recieve messages.
