@@ -1,2 +1,2 @@
 # Decoders
-It contains all the code scripts used to make Decoders game.
+## It contains all the code scripts used to make Decoders game.
