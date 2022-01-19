@@ -1,5 +1,3 @@
-## It contains all the code scripts used to make Decoders game.
-
 # Can You Decode This? The Game
 > An Educational Game focused upon analyzing and improving Computational Thinking in children.
 
