@@ -13,11 +13,17 @@ seen of individual room and user profile.
 
 ## Screenshots
 
-![WhatsApp](Game1.png)
+![](Game1.png)
+Phase 1 Gameplay.
+
+![](Game2.png)
+The Map feature for the location of puzzles.
+
+![](Game3.png)
+One of the puzzles which tries to teach about conditionals using pseudo coding.
+
+![](Game4.png)
 The Sign-in Page.
 
-![WhatsApp](Game2.png)
-The user would require Google-Auth to sign in using his/her gmail-id.
-
-![WhatsApp](Game3.png)
-On the left we have various groups/channels and on the right we have a particular chat opened up where we can send and recieve messages.
+![](Game5.png)
+The Sign-in Page.
