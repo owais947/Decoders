@@ -1,13 +1,13 @@
-# Decoders
 ## It contains all the code scripts used to make Decoders game.
-### https://owais-ali.itch.io/decoders
 
 # Can You Decode This? The Game
-> A WhatsApp-Slack mashup using WhatsApp's UI built upon Slack's backend for a unique experience.
+> An Educational Game focused upon analyzing and improving Computational Thinking in children.
 
-* It allows users to create rooms, supports Google authentication, live chat and includes features like - condensed chat room, last
-seen of individual room and user profile.
-* Tech Stack: React, Firebase, React Context API, Google Auth 
+* The game has 2 main phases
+* Phase 1 consists of 5 puzzles based upon pseudo coding.
+* Phase 2 simulates spread of an infectious virus in a marketplace and the player has to eliminate the dange using tools provided.
+* All the data collected is stored in a remote server for the later analysis.
+* Tech Stack: C#, Unity3D, Blender, Microsoft PlayFab
 
 ### The project is deployed at - [Can You Decode This? The Game](https://owais-ali.itch.io/decoders) . Check it out!!
 
@@ -23,7 +23,7 @@ The Map feature for the location of puzzles.
 One of the puzzles which tries to teach about conditionals using pseudo coding.
 
 ![](Game4.png)
-The Sign-in Page.
+A short quiz to identify if the player understands how the virus spread works.
 
 ![](Game5.png)
-The Sign-in Page.
+Phase 2 Gameplay.
